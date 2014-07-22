@@ -1,0 +1,35 @@
+
+#slide_window {
+	margin: 15px;
+	float: left;
+	border: 2px solid #DADAE7;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 2px 2px 3px #888888;
+}
+
+#slide_window > ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+}
+
+#slide_window > ul > li {
+	float: left;
+	margin: 10px;
+}
+
+.button-left {
+	cursor: pointer;
+	float: left;
+	margin-top: 100px;
+
+}
+
+.button-right {
+	cursor: pointer;
+	float: left;
+	margin-top: 100px;
+}
+
